@@ -1,14 +1,12 @@
-# 👋 Hi, I'm Ashis Kr. Prasad
+# 👋 Hi, I'm Ashis Kr. Prasad, recently passout B.Tech in Computer Science and Business System(2026)
 
-👀 I'm interested in Artificial Intelligence, Machine Learning, and Full-Stack Development
-
-🌱 I'm currently learning Python, LLM Applications, AI Agents, and the MERN Stack
+🌱 I'm currently learning Python, AI Agents, and the MERN Stack
 
 💞️ I'm looking to collaborate on AI, Machine Learning, and Full-Stack projects
 
 🎓 B.Tech Computer Science & Business Systems Student (Graduating 2026)
 
-🚀 Currently building projects on MERN and AI-powered applications
+🚀 Currently building projects and learning on MERN and AI-powered applications
 
 📫 How to reach me:
 
