@@ -2,7 +2,7 @@
 
 🎓 I'm recently passout B.Tech in Computer Science and Business System(2026)
 
-💞️ I'm looking to collaborate on AI, Machine Learning, and Full-Stack projects
+💞️ I'm looking to collaborate on AI, Machine Learning, and Frontend + Backend projects
 
 🚀 Currently building projects and learning on Express.js MongoDb and python applications.
 
